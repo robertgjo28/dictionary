@@ -1,5 +1,12 @@
 # dictionary
 
+## Dictionary App
+```
+Dictionary like application that can give the definition and listen to the entered word.
+Using Composition API
+
+```
+
 ## Project setup
 ```
 npm install
